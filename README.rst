@@ -3,15 +3,15 @@ gars-field
 ==================
 
 - GARS - `Global Area Reference System <https://en.wikipedia.org/wiki/Global_Area_Reference_System>`__
-- Field - Corteva Agriscience farming reference.
+- Field - Vylor farming reference.
 
 
 .. image:: https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square
     :alt: All Contributors
-    :target: https://github.com/corteva/gars-field/blob/main/AUTHORS.rst
+    :target: https://github.com/vylor/gars-field/blob/main/AUTHORS.rst
 
 .. image:: https://img.shields.io/badge/License-BSD%203--Clause-yellow.svg
-    :target: https://github.com/corteva/gars-field/blob/main/LICENSE
+    :target: https://github.com/vylor/gars-field/blob/main/LICENSE
 
 .. image:: https://img.shields.io/pypi/v/gars_field.svg
     :target: https://pypi.python.org/pypi/gars_field
@@ -22,11 +22,11 @@ gars-field
 .. image:: https://img.shields.io/conda/vn/conda-forge/gars_field.svg
     :target: https://anaconda.org/conda-forge/gars_field
 
-.. image:: https://github.com/corteva/gars-field/workflows/Tests/badge.svg
-    :target: https://github.com/corteva/gars-field/actions?query=workflow%3ATests
+.. image:: https://github.com/vylor/gars-field/workflows/Tests/badge.svg
+    :target: https://github.com/vylor/gars-field/actions?query=workflow%3ATests
 
-.. image:: https://codecov.io/gh/corteva/gars-field/branch/main/graph/badge.svg
-    :target: https://codecov.io/gh/corteva/gars-field
+.. image:: https://codecov.io/gh/vylor/gars-field/branch/main/graph/badge.svg
+    :target: https://codecov.io/gh/vylor/gars-field
 
 .. image:: https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white
     :target: https://github.com/pre-commit/pre-commit
@@ -38,8 +38,8 @@ gars-field
 Bugs/Questions
 --------------
 
-- Report bugs/feature requests: https://github.com/corteva/gars-field/issues
-- Ask questions: https://github.com/corteva/gars-field/discussions
+- Report bugs/feature requests: https://github.com/vylor/gars-field/issues
+- Ask questions: https://github.com/vylor/gars-field/discussions
 
 
 Usage

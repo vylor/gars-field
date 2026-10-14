@@ -64,7 +64,7 @@ dev = [
 ]
 
 [project.urls]
-repository = "https://github.com/corteva/gars-field"
+repository = "https://github.com/vylor/gars-field"
 
 
 [tool.setuptools.packages.find]

@@ -1,6 +1,6 @@
 ---
 name: Installation issues
-about: Issues installing gars-field (https://corteva.github.io/gars-field/stable/installation.html)
+about: Issues installing gars-field
 labels: installation-issues
 ---
 
