@@ -42,6 +42,7 @@ designation. The first four characters comprise the 30-degree quadrant designati
 The fifth character is the keypad key number. (ex. GD6A3)
 
 """
+
 import math
 import re
 from typing import Optional, Tuple

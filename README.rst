@@ -57,7 +57,6 @@ GARSField: determine GARS grids based on bounding box
     import shapely.geometry
     from gars_field import GARSField
 
-
     geom_bounds = shapely.geometry.box(minx=-175, miny=-76, maxx=-174, maxy=-75)
     garsf = GARSField(geom_bounds)
     # 6 deg grids (extension)
