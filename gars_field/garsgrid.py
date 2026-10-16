@@ -83,6 +83,7 @@ designation. The first seven characters comprise the 5-minute quadrant designati
 The eighth and ninth characters are the keypad key number. (ex.006AG3901)
 
 """
+
 import math
 import re
 from abc import abstractmethod

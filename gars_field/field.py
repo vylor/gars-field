@@ -5,6 +5,7 @@ This module contains tools to generate
 - the desired resolution.
 
 """
+
 import itertools
 from typing import List, Optional, Tuple, Type
 

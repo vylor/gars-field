@@ -60,6 +60,7 @@ designation. The first six characters comprise the 3-degree quadrant designation
 The seventh character is the keypad key number. (ex. D06AG39)
 
 """
+
 import math
 import re
 from typing import Optional
